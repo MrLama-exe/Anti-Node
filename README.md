@@ -1,4 +1,4 @@
 # Usage
-'''
+```
 node antinode.js
-'''
+```
