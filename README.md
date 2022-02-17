@@ -1,0 +1,4 @@
+# Usage
+'''
+node antinode.js
+'''
